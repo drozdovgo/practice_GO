@@ -77,7 +77,6 @@ fun Main() {
         ) {
             Text("Применить цвет")
 
-
         }
 
         LazyColumn(
